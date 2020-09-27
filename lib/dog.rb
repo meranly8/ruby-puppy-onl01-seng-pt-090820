@@ -7,7 +7,7 @@ class Dog
   end
   
   def save
-    @@all << "#{self} #{@name}""
+    @@all << "#{self} #{@name}"
   end
   
   def name
